@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy milk",
+      "status": false
+    },
+    {
+      "id": "4833aab7-c5c7-4e7c-a197-d1b74284a42f",
+      "title": "Buy water",
+      "status": false
+    },
+    {
+      "id": "49c39c66-df6d-4fac-ab6e-642e63bc5916",
+      "title": "Buy cake",
+      "status": false
+    },
+    {
+      "id": "1ca2a02d-bf77-4664-9ac5-8a0af1b145f0",
+      "title": "Buy banana",
+      "status": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+export const ADD_COUNT = "ADD_COUNT";
+export const SUB_COUNT = "SUB_COUNT";
+
+export const TODOS_SUCCESS = "TODOS_SUCCESS";
+export const TODOS_REQUEST = "TODOS_REQUEST";
+export const TODOS_ERROR = "TODOS_ERROR";
+
+export const ADD_TODOS_SUCCESS = "ADD_TODOS_SUCCESS";
+export const ADD_TODOS_REQUEST = "ADD_TODOS_REQUEST";
+export const ADD_TODOS_ERROR = "ADD_TODOS_ERROR";
